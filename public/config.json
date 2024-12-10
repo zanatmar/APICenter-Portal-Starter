@@ -1,0 +1,11 @@
+{
+  "dataApiHostName": "elx-cs-api-center.data.westeurope.azure-apicenter.ms/workspaces/default",
+  "title": "API portal Electrolux",
+  "authentication": {
+      "clientId": "4133ae29-40f3-40ca-9551-a666ecc0540e",
+      "tenantId": "d2007bef-127d-4591-97ac-10d72fe28031",
+      "scopes": ["https://azure-apicenter.net/user_impersonation"],
+      "authority": "https://login.microsoftonline.com/"
+  },
+  "scopingFilter": ""
+}
